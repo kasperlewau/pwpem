@@ -4,12 +4,12 @@
 
 # install
 ```sh
-go get github.com/kasperlewau/pempw
+go get github.com/kasperlewau/pwpem
 ```
 
 # usage
 ```go
-import "github.com/kasperlewau/pempw"
+import "github.com/kasperlewau/pwpem"
 
 pem := []byte("-----BEGIN PRIVATE KEY-----\nbase64encodedprivatekey....")
 pass := []byte("password")
