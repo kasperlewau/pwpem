@@ -1,4 +1,4 @@
-# pwpem [![GoDoc](https://godoc.org/github.com/golang/gddo?status.svg)](https://godoc.org/github.com/kasperlewau/pwpem)
+# pwpem [![GoDoc](https://godoc.org/github.com/golang/gddo?status.svg)](https://godoc.org/github.com/kasperlewau/pwpem) [![Build Status](https://travis-ci.org/kasperlewau/pwpem.svg?branch=master)](https://travis-ci.org/kasperlewau/pwpem)
 > encrypt & decrypt PEM block(s) with passwords
 
 
